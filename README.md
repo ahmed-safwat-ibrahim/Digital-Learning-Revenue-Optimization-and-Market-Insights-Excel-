@@ -1,5 +1,4 @@
-# Excel-Sales-Performance-Metrics-Dashboard
-Online Course Sales Analysis Project (Excel / Data Analysis)
+Digital Learning Revenue Optimization and Market Insights (Excel) Online Course Sales Analysis Project (Excel / Data Analysis)
 Project Overview
 
 This project involved a comprehensive analysis of an online course sales dataset, covering course enrollments, fees, advertising channels, training models, training levels, and sales team performance. The primary goal was to identify key drivers of sales, course popularity, and advertising effectiveness to support strategic business decisions for the online education company.
